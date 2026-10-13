@@ -2,7 +2,7 @@
 
 A PySpark project that predicts daily crime counts per police district and crime type, and measures what you gain and lose by training on a **sample (synopsis)** of the data instead of the **full dataset**.
 
-Built for the *Big Data Processing and Analysis* course at the Technical University of Crete (School of Electrical and Computer Engineering). The full write-up is in [`Project_Report.pdf`](Project_Report.pdf).
+Built for the *Big Data Processing and Analysis* course at the Technical University of Crete (School of Electrical and Computer Engineering). The full write-up is in [`Project_Report.pdf`](Project_Report_2020030137.pdf).
 
 ## What this project does
 
