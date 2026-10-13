@@ -85,4 +85,4 @@ The notebook was developed in **Google Colab**.
 
 ## Author
 
-[Your Name](https://www.linkedin.com/in/your-profile) | Electrical and Computer Engineering, Technical University of Crete
+[Koutsovasilis Vasileios](www.linkedin.com/in/vasilis-koutsovasilis-57468a297) | Electrical and Computer Engineering, Technical University of Crete
